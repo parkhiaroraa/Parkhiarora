@@ -22,5 +22,5 @@
 
 ### 📫 Connect with Me
 - **LinkedIn:** www.linkedin.com/in/parkhiarora
-
+[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-Click_Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parkhiarora.lovable.app)
 
